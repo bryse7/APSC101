@@ -1,3 +1,8 @@
+/*
+  Page 2 of the 3 pages in the original clawMain.ino file. 
+  This code outputs the present states of the claw to the 
+  Arduino serial monitor for debugging and adjustments.
+*/
 void statusUpdate() {
 
   Serial.print ( "Sonar Response: " );
