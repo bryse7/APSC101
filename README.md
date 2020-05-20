@@ -1,3 +1,3 @@
 # Bryson Wu's APSC101 Files
 
-## sup boys, here's the code for our claw
+## Uploaded for UBC 2nd Year Placement
