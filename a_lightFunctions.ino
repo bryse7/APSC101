@@ -1,3 +1,8 @@
+/*
+  Pages within the clawMain.ino file can't be previewed on GitHub, 
+  here's the first page that follows clawMain.ino. It controls the 
+  signal LEDs for the claw operator.
+*/
 void lights(){
 
   if ( heightCM <= BOUNDARY ){
