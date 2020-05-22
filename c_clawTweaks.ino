@@ -1,8 +1,8 @@
 /*
   Page 3 of 3 additional pages in the original clawMain.ino file. 
-  This page creates a mode, activated by the button inside the joystick, 
+  This page creates a mode, activated by the button within the joystick, 
   that adjusts the target open and close positions for the servo motor in 
-  real-time as needed. Used to make adjustments during testing.
+  real-time, as needed. Used to make adjustments during testing.
 */
 void clawTweaks(){
 
